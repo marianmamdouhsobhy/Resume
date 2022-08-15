@@ -1,2 +1,3 @@
 # Resume
-my resume using HTML5 and tailwind CSS
+
+My resume using HTML5 and TailwindCSS
